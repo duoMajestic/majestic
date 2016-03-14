@@ -1,0 +1,2 @@
+# majestic
+just another repository
